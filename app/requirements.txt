@@ -1,0 +1,8 @@
+fastapi
+gunicorn
+uvicorn
+uvloop
+python-multipart
+httptools
+redis
+celery[redis]
